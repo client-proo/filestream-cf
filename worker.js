@@ -6,7 +6,7 @@ const BOT_SECRET = "BOT_SECRET"; // Insert a powerful secret text (only [A-Z, a-
 const BOT_OWNER = 1623757589; // Insert your telegram account id.
 const BOT_CHANNEL = -1002613485817; // Insert your telegram channel id which the bot is admin in.
 const SIA_SECRET = "SIA_SECRET"; // Insert a powerful secret text and keep it safe.
-const PUBLIC_BOT = false; // Make your bot public (only [true, false] are allowed).
+const PUBLIC_BOT = true; // Make your bot public (only [true, false] are allowed).
 
 // ---------- Do Not Modify ---------- // 
 
